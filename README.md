@@ -230,6 +230,6 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 ## Author - Rishabh Kapoor
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/rishabh-kapoor-6b6b66346)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/rishabh-kapoor-6b6b66346)
 
 Thank you for your support, and I look forward to connecting with you!
